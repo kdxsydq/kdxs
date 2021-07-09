@@ -1023,7 +1023,7 @@
                 "cover": "//div[@class='bookimg']/a/img/@src",
                 "desc": "//div[@class='bookinfo']/div[@class='bookintro']",
                 "status": "//div[@class='bookinfo']/div[@class='bookilnk']/span[1]",
-                "updateTime": "//div[@class='bookinfo']/div[@class='bookilnk']/span[2]",
+                "updateTime": "",
                 "maxPageCount": "//div[@class='pagebox']/div/@count",
                 "latestChapter": "//div[@class='bookinfo']/div[@class='bookupdate']/a"
             }
